@@ -19,7 +19,7 @@ no-link = [] # tells build.rs to not link to libruby
 [dependencies]
 libc = "0.2.121"
 lazy_static = "1.4.0"
-rb_sys = "0.8.0"
+rb-sys = "0.8.0"
 
 [badges]
 travis-ci = { repository = "danielpclark/rutie", branch = "master" }
